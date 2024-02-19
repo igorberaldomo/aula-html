@@ -1,1 +1,1 @@
-Tarefa de criação de currículo da StackX
+Projeto feito na aula do módulo básico
